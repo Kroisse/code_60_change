@@ -1,0 +1,9 @@
+[package]
+name = "change"
+version = "0.0.1"
+authors = ["Eunchong Yu <gracie@spoqa.com>"]
+build = "build.rs"
+
+[[bin]]
+name = "change"
+path = "src/bin.rs"
